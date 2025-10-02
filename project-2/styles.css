@@ -17,10 +17,15 @@ main {
   max-width: 1174px;
   margin: 0 auto;
 
-  aside {
+  .images_section {
     display: flex;
-    flex-direction: column;
     gap: 16px;
+
+    aside {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
   }
 
   .content {
@@ -120,6 +125,64 @@ main {
         color: #000;
         border: 1px solid rgba(0, 0, 0);
         cursor: pointer;
+      }
+    }
+  }
+}
+
+@media (width <= 768px) {
+  main {
+    flex-direction: column;
+    padding: 20px;
+
+    .images_section {
+      flex-direction: row;
+      gap: 8px;
+
+      aside {
+        gap: 8px;
+        img {
+          width: 48px;
+        }
+      }
+      .image_container img {
+        width: 100%;
+      }
+    }
+
+    .content {
+      display: flex;
+      flex-direction: column;
+
+      .green-text {
+        font-size: 20px;
+      }
+
+      h1 {
+        font-size: 24px;
+      }
+
+      h4 {
+        font-size: 16px;
+      }
+
+      h2 {
+        font-size: 20px;
+      }
+
+      .variants_section {
+        img {
+          width: 64px;
+        }
+      }
+
+      .button_container {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        button {
+          padding: 12px;
+        }
       }
     }
   }
