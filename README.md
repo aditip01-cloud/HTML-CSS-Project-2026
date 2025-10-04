@@ -9,57 +9,78 @@ This repository contains a complete practice course featuring 10 distinct projec
 ## 📋 Projects Overview
 
 ### Project 1: Tribute Website
+
 A simple, elegant tribute page design focusing on basic HTML structure and CSS styling.
+
 - **Figma Design:** [View Design](https://www.figma.com/design/46fdzIjBj4tLm7VApnxHYW/HTML-CSS-PROJECT-2026?node-id=1-11&t=cmlTGKmTnLRPppRa-4)
-- **Live Demo:** [View Project](https://html-css-project-2026.vercel.app/project-1)
+- **Live Demo:** [View Project](https://https://html-css-project-2026.vercel.app/project-1/index.html)
 
 ### Project 2: Food Banner
+
 An attractive food banner showcasing product photography and promotional content.
+
 - **Figma Design:** [View Design](https://www.figma.com/design/46fdzIjBj4tLm7VApnxHYW/HTML-CSS-PROJECT-2026?node-id=19-116&t=cmlTGKmTnLRPppRa-4)
-- **Live Demo:** [View Project](https://html-css-project-2026.vercel.app/project-2)
+- **Live Demo:** [View Project](https://https://html-css-project-2026.vercel.app/project-2/index.html)
 
 ### Project 3: Shoe Website
+
 A modern e-commerce style landing page for footwear products.
+
 - **Figma Design:** [View Design](https://www.figma.com/design/46fdzIjBj4tLm7VApnxHYW/HTML-CSS-PROJECT-2026?node-id=3-95&t=cmlTGKmTnLRPppRa-4)
-- **Live Demo:** [View Project](https://html-css-project-2026.vercel.app/project-3)
+- **Live Demo:** [View Project](https://https://html-css-project-2026.vercel.app/project-3/index.html)
 
 ### Project 4: AI Chat Website
+
 A contemporary AI chat interface showcasing modern UI/UX patterns.
+
 - **Figma Design:** [View Design](https://www.figma.com/design/46fdzIjBj4tLm7VApnxHYW/HTML-CSS-PROJECT-2026?node-id=7-4&t=cmlTGKmTnLRPppRa-4)
-- **Live Demo:** [View Project](https://html-css-project-2026.vercel.app/project-4)
+- **Live Demo:** [View Project](https://https://html-css-project-2026.vercel.app/project-4/index.html)
 
 ### Project 5: Contact Us Page
+
 A professional contact form page with clean layout and styling.
+
 - **Figma Design:** [View Design](https://www.figma.com/design/46fdzIjBj4tLm7VApnxHYW/HTML-CSS-PROJECT-2026?node-id=28-128&t=cmlTGKmTnLRPppRa-4)
-- **Live Demo:** [View Project](https://html-css-project-2026.vercel.app/project-5)
+- **Live Demo:** [View Project](https://https://html-css-project-2026.vercel.app/project-5/index.html)
 
 ### Project 6: Blog Page
+
 A responsive blog layout featuring articles and content organization.
+
 - **Figma Design:** [View Design](https://www.figma.com/design/46fdzIjBj4tLm7VApnxHYW/HTML-CSS-PROJECT-2026?node-id=36-25&t=cmlTGKmTnLRPppRa-4)
-- **Live Demo:** [View Project](https://html-css-project-2026.vercel.app/project-6)
+- **Live Demo:** [View Project](https://https://html-css-project-2026.vercel.app/project-6/index.html)
 
 ### Project 7: Service Page
+
 A services showcase page highlighting business offerings.
+
 - **Figma Design:** [View Design](https://www.figma.com/design/46fdzIjBj4tLm7VApnxHYW/HTML-CSS-PROJECT-2026?node-id=28-255&t=cmlTGKmTnLRPppRa-4)
-- **Live Demo:** [View Project](https://html-css-project-2026.vercel.app/project-7)
+- **Live Demo:** [View Project](https://https://html-css-project-2026.vercel.app/project-7/index.html)
 
 ### Project 8: YouTube Clone
+
 A complex layout replicating YouTube's interface and design patterns.
+
 - **Figma Design:** [View Design](https://www.figma.com/design/46fdzIjBj4tLm7VApnxHYW/HTML-CSS-PROJECT-2026?node-id=43-17&t=cmlTGKmTnLRPppRa-4)
-- **Live Demo:** [View Project](https://html-css-project-2026.vercel.app/project-8)
+- **Live Demo:** [View Project](https://https://html-css-project-2026.vercel.app/project-8/index.html)
 
 ### Project 9: Music Website
+
 A creative music platform interface with media-focused design.
+
 - **Figma Design:** [View Design](https://www.figma.com/design/46fdzIjBj4tLm7VApnxHYW/HTML-CSS-PROJECT-2026?node-id=28-732&t=cmlTGKmTnLRPppRa-4)
-- **Live Demo:** [View Project](https://html-css-project-2026.vercel.app/project-9)
+- **Live Demo:** [View Project](https://https://html-css-project-2026.vercel.app/project-9/index.html)
 
 ### Project 10: Portfolio Website
+
 A comprehensive portfolio page showcasing all the projects in this collection.
-- **Live Demo:** [View Portfolio](https://html-css-project-2026.vercel.app)
+
+- **Live Demo:** [View Portfolio](https://https://html-css-project-2026.vercel.app)
 
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - A modern web browser (Chrome, Firefox, Safari, or Edge)
 - A code editor (VS Code, Sublime Text, etc.)
 - Basic understanding of HTML and CSS
@@ -67,12 +88,14 @@ A comprehensive portfolio page showcasing all the projects in this collection.
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone <repository-url>
 cd "HTML CSS Project 2026"
 ```
 
 2. Open any project:
+
 ```bash
 # Open the main portfolio page
 open index.html
@@ -84,6 +107,7 @@ open project-2/index.html
 ```
 
 Alternatively, use a local development server:
+
 ```bash
 # Using Python 3
 python -m http.server 8000
@@ -144,6 +168,7 @@ HTML CSS Project 2026/
 ## 🎨 Figma Designs
 
 All projects have corresponding Figma designs available. Access the complete design file:
+
 - **Main Figma File:** [HTML CSS PROJECT 2026](https://www.figma.com/design/46fdzIjBj4tLm7VApnxHYW/HTML-CSS-PROJECT-2026)
 
 Individual project nodes are linked in the Projects Overview section above.
@@ -157,6 +182,7 @@ Individual project nodes are linked in the Projects Overview section above.
 ## 📚 Learning Objectives
 
 Each project teaches different concepts:
+
 - Semantic HTML structure
 - CSS Flexbox and Grid layouts
 - Responsive design principles
@@ -174,6 +200,7 @@ Each project teaches different concepts:
 ## 👨‍💻 Author
 
 **Anshu**
+
 - Frontend Developer
 - Portfolio: See `index.html` for contact information
 
@@ -184,6 +211,7 @@ This project is available for educational purposes. Please refer to the course m
 ## 🤝 Contributing
 
 This is a learning project. Feel free to:
+
 - Fork the repository
 - Experiment with the code
 - Create your own variations
