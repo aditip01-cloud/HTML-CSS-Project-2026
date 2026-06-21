@@ -11,12 +11,6 @@ Designed to showcase a food delivery platform with floating food imagery and key
 
 ---
 
-## 📸 Preview
-
-![Food Banner Preview](./images/bg_image.png)
-
----
-
 ## ✨ Features
 
 - 🍕 Floating food images (burger, pizza, momo, tomato, leaf)
